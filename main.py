@@ -11,3 +11,14 @@
 
 # pirms pirmā commit neviens branch neeksistē
 #fasf
+
+
+# izveidot branch lokāli un remote
+# lokāli uz jauna branch veikt izmaiņas
+# iepushot izmaiņas remote repozitorija branchā
+
+# master
+# main
+# dsgdgadadsfasa
+
+# some changes
