@@ -10,3 +10,4 @@
 # remote main
 
 # pirms pirmā commit neviens branch neeksistē
+#fasf
